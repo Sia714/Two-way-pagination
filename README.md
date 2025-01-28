@@ -1,7 +1,7 @@
-# SpeakX - Two-Way Pagination with MVVM Architecture
+# Two-Way Pagination with MVVM Architecture
 
 ## Overview
-SpeakX is a sample Android application that demonstrates how to implement two-way pagination using MVVM architecture. The app fetches data dynamically when the user scrolls up or down, displaying progress bars at the top or bottom as data loads.
+Two Way Pagination is a sample Android application that demonstrates how to implement two-way pagination using MVVM architecture. The app fetches data dynamically when the user scrolls up or down, displaying progress bars at the top or bottom as data loads.
 
 ---
 
